@@ -16,4 +16,4 @@ User Friendly and Interactive
 ## Discussion 
 This project is pretty straightforward as you can see But I wanted to introduce this chatbot self-thinking with the help of Google's Word2vec I have used it before for my ZSL project in the trial.ipynb I was testing it out. You can download it via Kaggle. I will try to improve this and make it a much better version. I recently got to know Scispacy I might try to incorporate that into this. 
 
-until next timee 
+until next time✌🏽
